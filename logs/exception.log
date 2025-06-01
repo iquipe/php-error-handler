@@ -1,0 +1,2 @@
+[2025-06-01 18:53:27] Uncaught Exception: This is a test of the library's exception handler. in G:\xampp\htdocs\composer\php-error-handler\index.php on line 25
+#0 {main}

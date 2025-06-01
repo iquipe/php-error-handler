@@ -1,0 +1,1 @@
+[2025-06-01 18:53:27] Warning: file_get_contents(non_existent_file.php): Failed to open stream: No such file or directory in G:\xampp\htdocs\composer\php-error-handler\index.php on line 22

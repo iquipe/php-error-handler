@@ -1,0 +1,20 @@
+{
+    "name": "iquipedigital/php-error-handler",
+    "description": "A simple, environment-aware custom error and exception handler for PHP applications.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "iQuipe Digital",
+            "email": "support@iquipedigital.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "IQ\\PhpErrorHandler\\": "src/"
+        }
+    }
+}
