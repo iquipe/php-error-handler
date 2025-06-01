@@ -27,7 +27,7 @@ This library is intended to be installed via [Composer](https://getcomposer.org/
 <!-- end list -->
 
 ```bash
-composer require acme/php-error-handler
+composer require iquipedigital/php-error-handler
 ```
 
 > **Note**: As this is a hypothetical package name, you would replace `acme/php-error-handler` with the actual package name once it's published on Packagist. For local development, you can use a [path repository](https://www.google.com/search?q=https://getcomposer.org/doc/05-repositories.md%23path) in your project's `composer.json`.
